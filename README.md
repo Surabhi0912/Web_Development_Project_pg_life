@@ -10,7 +10,7 @@ what I thought would be better functionalities in this app, from the user perspe
 
 Entire web-app is fully responsive and is operational from any device.
 
-Tech Stack:- HTML, CSS, Bootstrap, Javascript, AJAX, PHP, MySQL, DBMS
+Tech Stack:- HTML, CSS, Bootstrap, Javascript,PHP, MySQL, DBMS
 
 This web app has the following functionalities:-
 
